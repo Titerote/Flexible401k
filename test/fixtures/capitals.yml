@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  type: 
+  date: 2015-03-31
+  amount: 9.99
+
+two:
+  type: 
+  date: 2015-03-31
+  amount: 9.99

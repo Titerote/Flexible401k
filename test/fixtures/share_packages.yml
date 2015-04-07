@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  mutual_fund_id: 1
+  fact_date: 2015-03-31
+  price: 9.99
+  units: 9.99
+  market_value: 9.99
+
+two:
+  mutual_fund_id: 1
+  fact_date: 2015-03-31
+  price: 9.99
+  units: 9.99
+  market_value: 9.99
